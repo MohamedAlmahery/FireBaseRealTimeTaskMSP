@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "788084675327",
+    "firebase_url": "https://msp-project-9a871.firebaseio.com",
+    "project_id": "msp-project-9a871",
+    "storage_bucket": "msp-project-9a871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788084675327:android:6b801aecab395c5b",
+        "android_client_info": {
+          "package_name": "com.almahery.firebaserealtimetaskmsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788084675327-5cnv4t4j8rs6sk15llsivvhotiik44ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSbshNpcrJ1jHOs2CP3aHxa8oJr9bUry0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
